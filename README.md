@@ -3,8 +3,8 @@
 Hardware : 
 
 	-Adafruit Feather 32u4 Bluefruit LE : https://www.adafruit.com/products/2829  https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview
-	- Neopixel WS2812B : https://www.adafruit.com/category/168  https://learn.adafruit.com/adafruit-neopixel-uberguide
-	- A Lithium Ion Battery : https://www.adafruit.com/products/2011
+	-Neopixel WS2812B : https://www.adafruit.com/category/168  https://learn.adafruit.com/adafruit-neopixel-uberguide
+	-A Lithium Ion Battery : https://www.adafruit.com/products/2011
 
 Software : 
 
