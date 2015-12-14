@@ -34,4 +34,4 @@ Then :
 	-Choose  Controller
 	-Have Fun with Color Picker & Control Pad
 
-More informations about the Glowing Bag : http://anderson69s.com/
+More informations about the Glowing Bag : http://anderson69s.com/2015/12/14/feather32u4le-ws2812b-glowing-bag/
