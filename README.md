@@ -17,7 +17,7 @@ I used this previous code to make my own :
 
  	* ButtonCycler example from NeoPixel Library
  	* Controller example from Adafruit_BluefruitLE_nRF51 Library
- 	* https://learn.adafruit.com/multi-tasking-the-arduino-part-3
+ 	* Multitasking examples https://learn.adafruit.com/multi-tasking-the-arduino-part-3
  
 I implemented :
  
