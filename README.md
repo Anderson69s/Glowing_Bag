@@ -14,9 +14,9 @@ Software :
 	* Add Board to Boards Manager : https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup 
 	
 I used :
- * ButtonCycler example from NeoPixel Library
- * Controller example from Adafruit_BluefruitLE_nRF51 Library
- * https://learn.adafruit.com/multi-tasking-the-arduino-part-3
+ 	* ButtonCycler example from NeoPixel Library
+ 	* Controller example from Adafruit_BluefruitLE_nRF51 Library
+ 	* https://learn.adafruit.com/multi-tasking-the-arduino-part-3
  
  I implemented : theaterChaseRainbow();
 
