@@ -1,4 +1,4 @@
-/*********************************************************************
+           /*********************************************************************
  This is an example for our nRF51822 based Bluefruit LE modules
 
  Pick one up today in the adafruit shop!
@@ -421,7 +421,7 @@ class NeoPatterns :
 
 // Define some NeoPatterns for the two rings
 //  as well as some completion routines
-NeoPatterns Ring1(30, 9, NEO_GRB + NEO_KHZ800, Ring1Complete);
+NeoPatterns Ring1(35, 9, NEO_GRB + NEO_KHZ800, Ring1Complete);
 
 // Initialize everything and prepare to start
 void setup()
@@ -601,7 +601,7 @@ void startShow(int i) {
       //Serial.print(green, HEX);
       //if (blue < 0x10) Serial.print("0");
       //Serial.println(blue, HEX);
-      for (uint8_t i = 0; i < 31; i++) {
+      for (uint8_t i = 0; i < 35; i++) {
         Ring1.setPixelColor(i, Ring1.Color(red, green, blue));
       }
       Ring1.show(); // This sends the updated pixel color to the hardware.
